@@ -1,6 +1,7 @@
 wallaceRGB
 ==========
 Slightly changed by me to work with https://github.com/dicamarques14/PC-to-Arduino-RGB-control
+
 Binary ready to work: https://drive.google.com/file/d/0By1jBXUOP24eSndBTU15ZFJ4dUE/view?usp=sharing
 
 This is a swing based java utility to control rgb lights via serial communication (namely arduino based projects but it could be modified for commercial lights using rs232 serial)
